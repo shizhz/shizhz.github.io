@@ -1,0 +1,8 @@
+title: Shizhz.github.io
+description: shizhz.github.io
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
