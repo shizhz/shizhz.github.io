@@ -7,6 +7,6 @@ tags: [computer, assembly language]
 comments: true
 ---
 
-阅读全文请移步：[Computer Arch Link](https://ca.shizhz.me)!
+阅读全文请移步：[Computer Arch Link](https://s2.shizhz.me)!
 
 同时欢迎读者通过页面下方的邮箱提供任何反馈，谢谢。
